@@ -6,11 +6,11 @@
 
 <table><tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarinJursic&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MarinJursic&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 95%" />
 
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
