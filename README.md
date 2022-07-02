@@ -22,16 +22,8 @@
 <br />
 
 ## Github Stats
-<div style="display:flex;">
-  <div>LOL</div>
-  <div>LMAO</div>
-</div>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 98%" />
-
-</td></tr></table>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 50%" />
 
 <br/>  
 
