@@ -21,9 +21,9 @@
 
 <br />
 
-# 📊 GitHub Stats:
+## Github Stats
 
-<table><tr><td valign="top" width="50%">
+<table style="border:none"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarinJursic&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 98%" />
 
