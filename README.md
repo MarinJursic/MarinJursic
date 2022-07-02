@@ -23,11 +23,16 @@
 
 ## Github Stats
 
-<table><tr style='border:none;'><td valign="top" width="50%" style='border:none;'>
+<div>
+  <div width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?   username=MarinJursic&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 98%" />
+  </div>
+  <div width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 98%" />
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarinJursic&theme=react&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 98%" />
-
-</td><td valign="top" width="50%" style='border:none;' border="none">
+</td><td valign="top" width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 98%" />
 
