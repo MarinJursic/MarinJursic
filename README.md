@@ -1,4 +1,4 @@
-<img src="https://github.com/MarinJursic/MarinJursic/19.gif" width="100%">
+<img src="https://github.com/MarinJursic/MarinJursic/blob/main/19.gif" width="100%">
 
 ## Languages and Tools  
 <div align="center">  
