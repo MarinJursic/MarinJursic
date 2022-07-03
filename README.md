@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/M8DQ0pcj7LazNSWT4g/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/CoV2y1EaC8qZQcOAqR/giphy.gif" width="100%">
 
 ## Languages and Tools  
 <div align="center">  
