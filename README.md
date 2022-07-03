@@ -1,3 +1,5 @@
+![](https://github.com/MarinJursic/MarinJursic/19.gif)
+
 <img src="https://s8.gifyu.com/images/bestfe4bae7eed633ac8.md.gif" width="100%">
 
 ## Languages and Tools  
