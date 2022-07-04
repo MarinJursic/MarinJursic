@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/d7tt37LBrSLUBZPIxq/giphy.gif" width="100%">
+<img src="https://github.com/MarinJursic/MarinJursic/blob/main/9mb.gif" width="100%">
 
 ## Languages and Tools  
 <div align="center">  
