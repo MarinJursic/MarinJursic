@@ -1,7 +1,5 @@
 <img src="https://github.com/MarinJursic/MarinJursic/blob/main/9mb.gif" width="100%">
 
-<br />
-
 ## Github Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinJursic&theme=react&hide_border=false)" align="left" style="width: 51%" />
