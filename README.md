@@ -1,4 +1,4 @@
-![Marin Jursic — Senior Full-Stack Engineer focused on product systems and data](./assets/profile-banner-wave-light.svg)
+![Marin Jursic — Senior Full-Stack Engineer focused on product systems and data](./assets/profile-banner-editorial-light.svg)
 
 ## Freelance & consulting
 
