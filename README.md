@@ -1,33 +1,42 @@
-# Marin Jursic
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:2563EB,100:7C3AED&text=Marin%20Jursic&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Data%20Science&descAlignY=58&descSize=17" alt="Marin Jursic — Full-Stack Software Engineer, AI Engineering, and Data Science" />
+</p>
 
-### Full-Stack Software Engineer · AI Engineering · Data Science
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-jursic/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marin.jursic@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarinJursic?tab=repositories)
+Product-minded engineer building **AI-native products from data and models to APIs and polished interfaces**.
 
-## About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marin_Jursic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-jursic/) [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marin.jursic@gmail.com) [![Projects](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarinJursic?tab=repositories)
 
-I enjoy taking technically ambitious ideas all the way from research and system design to tested, usable products. My work spans full-stack web platforms, AI-powered applications, data-intensive services, interactive 3D visualization, and developer tooling.
+<br />
 
-- 🧩 **Full-stack engineering:** polished interfaces, APIs, authentication, payments, real-time features, and reliable data systems
-- 🧠 **Applied AI and data:** LLM workflows, embeddings, clustering, fine-tuning, model evaluation, and interactive analysis
-- ⚙️ **Production delivery:** automated testing, CI/CD, containers, observability, security, and reproducible releases
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,pytorch,postgres,mongodb,docker,azure&theme=dark" alt="Core technology stack" />
 
-## Technology toolkit
+<br />
 
-### Languages & frontend
+**Full-stack product systems · LLM and agent workflows · ML fine-tuning and evaluation · Embeddings and clustering · Interactive data experiences**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+</div>
 
-### Backend, APIs & data
+<details>
+<summary><strong>Complete technical toolkit</strong> — verified from production work and documented project evidence</summary>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+<br />
 
-### AI, machine learning & data science
+| Area | Technologies and capabilities |
+|---|---|
+| **Frontend** | HTML, CSS, SCSS/Sass, CSS Modules, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material UI and MUI Icons, TanStack Query, React Hook Form, TipTap, next-intl, Lucide React |
+| **Backend & APIs** | Node.js, Express.js, Python, FastAPI, Uvicorn, Pydantic, REST, GraphQL, OpenAPI TypeScript codegen, SignalR, RabbitMQ/Pika, Strapi |
+| **AI, ML & Data Science** | PyTorch, NumPy, pandas, SciPy, scikit-learn, sentence-transformers, HDBSCAN, UMAP, kneed, spaCy, NLTK, KeyBERT, langdetect, OpenAI, Anthropic Claude, Google Vertex AI, Qwen, embeddings, clustering, LoRA, DoRA, model fine-tuning, evaluation and benchmarking |
+| **Data & Persistence** | PostgreSQL, MongoDB, Firebase, vector search, data pipelines, BeautifulSoup, feedparser, lxml, Jinja2, Pillow, schema and database design |
+| **Cloud, DevOps & Delivery** | Azure, Azure Key Vault, Docker, Docker Compose, GitHub Actions, Vercel, Git, pnpm, Turbopack, blue/green deployments, staging and production workflows |
+| **Quality, Security & Observability** | Jest, Playwright, pytest, Biome, Sentry, Gitleaks, SAST, pre-commit/pre-push hooks, Next Bundle Analyzer |
+| **Product Engineering** | Authentication, authorization, Stripe, PayPal, Coinbase, subscriptions, webhooks, Google Analytics, SEO, accessibility, performance optimization, internationalization, responsive design, component libraries and design systems |
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+</details>
 
-`Embeddings` · `Vector search` · `Clustering` · `LoRA / DoRA` · `Fine-tuning` · `Evaluation` · `Benchmarking`
+<div align="center">
 
-### Cloud, quality & delivery
+<sub>Open to building thoughtful products at the intersection of software engineering, AI, and data.</sub>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+</div>
