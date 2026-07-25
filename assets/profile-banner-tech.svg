@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Marin Jursic</title>
+  <desc id="description">Senior Full-Stack Engineer building reliable software from architecture to production</desc>
+  <defs>
+    <linearGradient id="art" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset=".58" stop-color="#4338ca"/>
+      <stop offset="1" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="plane" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#bfdbfe" stop-opacity=".12"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="280" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="#f7f9fc"/>
+    <rect width="7" height="280" fill="#2563eb"/>
+
+    <path d="M884 0H1200V280H811C856 237 855 194 878 155C905 109 937 72 884 0Z" fill="url(#art)"/>
+    <circle cx="1165" cy="10" r="172" fill="#ffffff" fill-opacity=".08"/>
+    <circle cx="1180" cy="280" r="128" fill="#0f172a" fill-opacity=".08"/>
+
+    <g fill="none" stroke="#ffffff" stroke-opacity=".18">
+      <path d="M930 45V235M970 33V247M1010 21V259M1050 9V271M1090-3V283M1130-15V295"/>
+      <path d="M894 87L1113 21M879 131L1150 50M864 175L1187 79M849 219L1224 108"/>
+    </g>
+
+    <g stroke="#ffffff" stroke-opacity=".52" stroke-width="1.4">
+      <path d="M930 81L1038 48L1146 81L1038 114Z" fill="url(#plane)"/>
+      <path d="M930 132L1038 99L1146 132L1038 165Z" fill="url(#plane)"/>
+      <path d="M930 183L1038 150L1146 183L1038 216Z" fill="url(#plane)"/>
+    </g>
+
+    <g fill="none" stroke="#dbeafe" stroke-opacity=".48" stroke-width="1.4">
+      <path d="M930 81V183M1038 114V216M1146 81V183"/>
+      <path d="M964 71L1038 94L1112 71"/>
+      <path d="M964 122L1038 145L1112 122"/>
+      <path d="M964 173L1038 196L1112 173"/>
+    </g>
+
+    <g fill="#ffffff">
+      <circle cx="930" cy="81" r="3"/>
+      <circle cx="1038" cy="48" r="3"/>
+      <circle cx="1146" cy="81" r="3"/>
+      <circle cx="930" cy="183" r="3"/>
+      <circle cx="1038" cy="216" r="3"/>
+      <circle cx="1146" cy="183" r="3"/>
+    </g>
+
+    <rect x=".5" y=".5" width="1199" height="279" rx="13.5" fill="none" stroke="#d8e0ea"/>
+
+    <text x="64" y="54" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="650" letter-spacing="1.8">SOFTWARE ENGINEERING · CONSULTING</text>
+    <text x="64" y="127" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2">Marin Jursic</text>
+    <text x="64" y="174" fill="#1e293b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600">Senior Full-Stack Engineer</text>
+    <text x="64" y="219" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="500">Building reliable software from architecture to production.</text>
+  </g>
+</svg>
