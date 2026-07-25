@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Product-minded engineer building **AI-native products from data and models to APIs and polished interfaces**.
+I enjoy taking technically ambitious ideas from research and system design to tested, usable products.<br />My work spans **full-stack platforms, AI-powered applications, data-intensive services, interactive 3D visualization, and developer tooling**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marin_Jursic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-jursic/) [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marin.jursic@gmail.com) [![Projects](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarinJursic?tab=repositories)
 
