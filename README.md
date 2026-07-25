@@ -4,7 +4,7 @@
 
 I partner with founders, product leaders, and engineering teams on technically demanding software and applied AI initiatives. Engagements range from architecture and technical direction to hands-on delivery of production platforms, model workflows, and data-intensive systems.
 
-[![Hire me](https://img.shields.io/badge/Hire_Me-Start_a_Project-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marin.jursic@gmail.com?subject=Freelance%20project) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-jursic/) [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarinJursic?tab=repositories)
+[![Hire me](https://img.shields.io/badge/Hire_Me-Start_a_Project-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marin.jursic@gmail.com?subject=Freelance%20project) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-jursic/) [![GitHub](https://img.shields.io/badge/GitHub-Projects-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarinJursic?tab=repositories)
 
 ## Profile
 
