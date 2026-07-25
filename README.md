@@ -1,4 +1,4 @@
-![Marin Jursic — Senior Full-Stack Engineer with applied AI and data science expertise](./assets/profile-banner.svg)
+![Marin Jursic — Senior Full-Stack Engineer focused on product systems and data](./assets/profile-banner.svg)
 
 ## Freelance & consulting
 
