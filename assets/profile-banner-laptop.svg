@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Marin Jursic</title>
+  <desc id="description">Senior Full-Stack Engineer building reliable software from architecture to production</desc>
+  <defs>
+    <linearGradient id="art" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset=".58" stop-color="#4338ca"/>
+      <stop offset="1" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#cbd5e1"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="914" y="49" width="242" height="156" rx="9"/>
+    </clipPath>
+    <clipPath id="frame">
+      <rect width="1200" height="280" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="#f7f9fc"/>
+    <rect width="7" height="280" fill="#2563eb"/>
+
+    <path d="M884 0H1200V280H811C856 237 855 194 878 155C905 109 937 72 884 0Z" fill="url(#art)"/>
+    <circle cx="1165" cy="10" r="172" fill="#ffffff" fill-opacity=".08"/>
+    <circle cx="1180" cy="280" r="128" fill="#0f172a" fill-opacity=".08"/>
+
+    <ellipse cx="1035" cy="233" rx="152" ry="16" fill="#0f172a" fill-opacity=".2"/>
+
+    <rect x="905" y="40" width="260" height="174" rx="13" fill="#dbe4ef" stroke="#ffffff" stroke-opacity=".75" stroke-width="2"/>
+    <rect x="914" y="49" width="242" height="156" rx="9" fill="#0b1220"/>
+
+    <g clip-path="url(#screen)">
+      <rect x="914" y="49" width="242" height="156" fill="#0f172a"/>
+      <rect x="914" y="49" width="242" height="23" fill="#111c2e"/>
+      <circle cx="929" cy="60.5" r="3" fill="#60a5fa"/>
+      <circle cx="940" cy="60.5" r="3" fill="#818cf8"/>
+      <circle cx="951" cy="60.5" r="3" fill="#38bdf8"/>
+
+      <rect x="914" y="72" width="38" height="133" fill="#0b1322"/>
+      <rect x="925" y="86" width="16" height="3" rx="1.5" fill="#475569"/>
+      <rect x="925" y="99" width="11" height="3" rx="1.5" fill="#334155"/>
+      <rect x="925" y="112" width="14" height="3" rx="1.5" fill="#334155"/>
+      <rect x="925" y="125" width="9" height="3" rx="1.5" fill="#334155"/>
+      <rect x="925" y="185" width="16" height="3" rx="1.5" fill="#2563eb"/>
+
+      <rect x="952" y="72" width="204" height="18" fill="#101a2a"/>
+      <rect x="964" y="79" width="43" height="4" rx="2" fill="#334155"/>
+      <rect x="1013" y="79" width="31" height="4" rx="2" fill="#1e293b"/>
+
+      <rect x="971" y="103" width="48" height="4" rx="2" fill="#60a5fa"/>
+      <rect x="1025" y="103" width="29" height="4" rx="2" fill="#94a3b8"/>
+      <rect x="1060" y="103" width="45" height="4" rx="2" fill="#818cf8"/>
+
+      <rect x="985" y="118" width="35" height="4" rx="2" fill="#38bdf8"/>
+      <rect x="1026" y="118" width="62" height="4" rx="2" fill="#64748b"/>
+
+      <rect x="985" y="133" width="24" height="4" rx="2" fill="#818cf8"/>
+      <rect x="1015" y="133" width="71" height="4" rx="2" fill="#94a3b8"/>
+      <rect x="1092" y="133" width="27" height="4" rx="2" fill="#60a5fa"/>
+
+      <rect x="971" y="148" width="31" height="4" rx="2" fill="#60a5fa"/>
+      <rect x="1008" y="148" width="57" height="4" rx="2" fill="#64748b"/>
+
+      <rect x="985" y="163" width="45" height="4" rx="2" fill="#38bdf8"/>
+      <rect x="1036" y="163" width="33" height="4" rx="2" fill="#94a3b8"/>
+      <rect x="1075" y="163" width="50" height="4" rx="2" fill="#818cf8"/>
+
+      <rect x="971" y="178" width="24" height="4" rx="2" fill="#818cf8"/>
+      <rect x="1001" y="178" width="68" height="4" rx="2" fill="#64748b"/>
+    </g>
+
+    <circle cx="1035" cy="45" r="2" fill="#94a3b8"/>
+    <path d="M885 214H1185L1161 232H909Z" fill="url(#base)" stroke="#ffffff" stroke-opacity=".85"/>
+    <path d="M997 214H1073L1065 220H1005Z" fill="#94a3b8" fill-opacity=".65"/>
+    <path d="M909 232H1161" stroke="#94a3b8" stroke-opacity=".55"/>
+
+    <rect x=".5" y=".5" width="1199" height="279" rx="13.5" fill="none" stroke="#d8e0ea"/>
+
+    <text x="64" y="54" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="650" letter-spacing="1.8">SOFTWARE ENGINEERING · CONSULTING</text>
+    <text x="64" y="127" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2">Marin Jursic</text>
+    <text x="64" y="174" fill="#1e293b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600">Senior Full-Stack Engineer</text>
+    <text x="64" y="219" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="500">Building reliable software from architecture to production.</text>
+  </g>
+</svg>
