@@ -1,4 +1,8 @@
-![Marin Jursic — Senior Full-Stack Engineer focused on product systems and data](./assets/profile-banner-editorial-light.svg)
+# Hello, I'm Marin Jursic 👋
+
+**Senior Full-Stack Engineer** building reliable software from product architecture through production delivery.
+
+Full-stack engineering · Cloud platforms · Data systems · Applied AI
 
 ## Freelance & consulting
 
